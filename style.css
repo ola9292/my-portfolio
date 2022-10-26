@@ -484,9 +484,7 @@ header {
    padding-top: 0;
    margin-top: 0;
 }
-@media(max-width: 750px){
-    .portfolio{
-        display: flex;
-        flex-wrap: wrap;
-    }
+.pic-size{
+    height: 300px;
+    width: 100%
 }
